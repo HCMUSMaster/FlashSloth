@@ -241,10 +241,13 @@ In order to help reproduce our results, we also provide the weights after the fi
 If you find our paper and code helpful, we kindly invite you to give it a star and consider citing our work.
 
 ```bibtex
-@article{tong2024flashsloth,
-  title={FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression},
-  author={Tong, Bo and Lai, Bokai and Zhou, Yiyi and Luo, Gen and Shen, Yunhang and Li, Ke and Sun, Xiaoshuai and Ji, Rongrong},
-  journal={arXiv preprint arXiv:2412.04317},
-  year={2024}
+@InProceedings{Tong_2025_CVPR,
+    author    = {Tong, Bo and Lai, Bokai and Zhou, Yiyi and Luo, Gen and Shen, Yunhang and Li, Ke and Sun, Xiaoshuai and Ji, Rongrong},
+    title     = {FlashSloth : Lightning Multimodal Large Language Models via Embedded Visual Compression},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {14570-14581}
 }
 ```
+
